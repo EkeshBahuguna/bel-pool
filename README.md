@@ -1,6 +1,3 @@
-# Rise pool distribution software
-This software is created by oodles technologies for reward dis
-
 ## Configuration
 edit constants/constants.py and modify the first lines with your settings:
 

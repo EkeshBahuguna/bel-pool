@@ -16,13 +16,13 @@ LOGFILE = constants.LOGFILE
 # percentage to distribute
 PERCENTAGE = constants.PERCENTAGE
 # perform the payment after
-MINPAYOUT =constants.MINPAYOUTINBEL 
+MINPAYOUT =constants.MIN_PAYOUT_IN_BEL 
 #secret of super representative
 SECRET = constants.SECRET
 #second secret if any
-SECONDSECRET = constants.SECONDSECRET
+SECONDSECRET = constants.SECOND_SECRET
 #country code of super representative
-SENDERCOUNTRYCODE= constants.SENDERCOUNTRYCODE
+SENDERCOUNTRYCODE= constants.SENDER_COUNTRY_CODE
 
 
 
