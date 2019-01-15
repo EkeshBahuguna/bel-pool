@@ -1,0 +1,9 @@
+NODE = "http://localhost:9305"
+NODEPAY = "http://localhost:9305"
+PUBKEY = ""
+LOGFILE = 'poollogs.json'
+PERCENTAGE = 50
+MINPAYOUTINBEL = 1
+SECRET = ""
+SECONDSECRET = None
+SENDERCOUNTRYCODE="IN"
