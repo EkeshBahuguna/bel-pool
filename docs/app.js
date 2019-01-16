@@ -20,7 +20,7 @@ app.controller('indexCtrl', function($scope, $http) {
     });
 
     //get the super representative delegate details
-    $http.get ('https://localhost:9305/api/delegates/get?username=genesisDelegate1').then (function (res) {
+    $http.get ('http://localhost:9305/api/delegates/get?username=genesisDelegate1').then (function (res) {
         $scope.delegate = res.data.delegate;
     });
 });

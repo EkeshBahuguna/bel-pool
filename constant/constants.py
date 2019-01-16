@@ -1,7 +1,7 @@
 NODE = "http://localhost:9305"
 NODEPAY = "http://localhost:9305"
 PUBKEY = ""
-LOGFILE = ""
+LOGFILE = 'poollogs.json'
 PERCENTAGE = 50
 MIN_PAYOUT_IN_BEL = 1
 SECRET = ""
